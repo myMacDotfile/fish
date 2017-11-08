@@ -1,0 +1,1 @@
+/Users/lizhiwei/.config/fisherman/osx/functions/manp.fish

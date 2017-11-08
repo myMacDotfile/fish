@@ -1,0 +1,1 @@
+/Users/lizhiwei/.config/fisherman/nvm/functions/npm.fish

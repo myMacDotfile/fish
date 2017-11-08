@@ -1,0 +1,1 @@
+/Users/lizhiwei/.config/fisherman/bd/completions/bd.fish
